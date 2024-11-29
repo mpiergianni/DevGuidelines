@@ -1,1 +1,3 @@
-<h1>TEST</h1>
+layout: page
+title: "Home page"
+permalink: /index.md
