@@ -1,3 +1,1 @@
-layout: page
-title: "Home page"
-permalink: /index.md
+<h2>Obiettivo di questo sito</h2>
