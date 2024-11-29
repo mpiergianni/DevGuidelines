@@ -1,1 +1,1 @@
-<h2>Obiettivo di questo sito</h2>
+<h2>Obiettivo di questo repository</h2>
