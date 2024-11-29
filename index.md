@@ -1,4 +1,4 @@
-<h1>Benvenuti nel Portale degli Sviluppatori</h1>
+<h1>Benvenuti</h1>
 
 <section>
  <h2>Perché questo sito?</h2>
