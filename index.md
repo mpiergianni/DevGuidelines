@@ -18,8 +18,8 @@
  </ul>
 </section>
 <section>
- <h2>Unitevi a Noi!</h2>
+ <h2>Collaboriamo</h2>
  <p>Il portale è un lavoro in continua evoluzione e il contributo di ogni membro del team è prezioso. Non esitate a proporre miglioramenti, segnalare problemi o condividere nuove idee.</p>
- <p>Insieme, possiamo costruire software di alta qualità e creare un ambiente di sviluppo che favorisca l'innovazione e l'eccellenza. Buon lavoro!</p>
+ <p>Buon lavoro!</p>
 </section>
 
